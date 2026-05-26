@@ -1,14 +1,10 @@
 [
   {
-    "imageUrl": "https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПО/main/news/1.jpg",
-    "title": "Добро пожаловать на сервер!"
+    "imageUrl": "",
+    "title": "Добро пожаловать на сервер 188.127.241.74:2015"
   },
   {
-    "imageUrl": "https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПО/main/news/2.jpg",
-    "title": "Новое обновление!"
-  },
-  {
-    "imageUrl": "https://raw.githubusercontent.com/ТВОЙ_АККАУНТ/РЕПО/main/news/3.jpg",
-    "title": "Активность на сервере"
+    "imageUrl": "",
+    "title": "Приятной игры!"
   }
 ]
