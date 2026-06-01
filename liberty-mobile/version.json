@@ -1,6 +1,6 @@
 {
   "version_code": 1,
-  "version_name": "1.0.1",
+  "version_name": "1.0.0",
   "apk_url": "https://www.dropbox.com/scl/fi/j452vrrdjb2cu0m2r17nv/liberty-mobile-1.0.0.apk?rlkey=dr9rb8zgyvl8gxdj3kmfeb7vm&dl=1",
   "apk_size": 69500000,
   "changes": "Первый релиз лаунчера!\n- Полностью рабочий лаунчер\n- Автоматическая загрузка кэша\n- Система обновлений",
